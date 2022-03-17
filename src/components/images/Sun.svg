@@ -1,0 +1,10 @@
+<svg id="Sun" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(7 7)" fill="none" stroke="#b4ae83" stroke-width="2">
+    <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+    <circle cx="5.5" cy="5.5" r="4.5" fill="none"/>
+  </g>
+  <g id="Ellipse_5" data-name="Ellipse 5" fill="none" stroke="#b4ae83" stroke-width="4" stroke-dasharray="2 5">
+    <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+    <circle cx="12.5" cy="12.5" r="10.5" fill="none"/>
+  </g>
+</svg>

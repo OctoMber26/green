@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.16" height="31.58" viewBox="0 0 28.16 31.58">
+  <g id="House" transform="translate(2.08 2.08)">
+    <line id="Line_2" data-name="Line 2" y2="20" transform="translate(0 8)" fill="none" stroke="#b4ae83" stroke-width="3"/>
+    <line id="Line_2-2" data-name="Line 2" y2="20" transform="translate(24 8)" fill="none" stroke="#b4ae83" stroke-width="3"/>
+    <line id="Line_3" data-name="Line 3" x2="24" transform="translate(0 28)" fill="none" stroke="#b4ae83" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_4" data-name="Line 4" x1="12" y2="8" fill="none" stroke="#b4ae83" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_4-2" data-name="Line 4" x2="12" y2="8" transform="translate(12)" fill="none" stroke="#b4ae83" stroke-linecap="round" stroke-width="3"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(7.5 17.5)" fill="none" stroke="#b4ae83" stroke-width="2">
+      <rect width="9" height="11" rx="2" stroke="none"/>
+      <rect x="1" y="1" width="7" height="9" rx="1" fill="none"/>
+    </g>
+  </g>
+</svg>

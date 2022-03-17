@@ -1,0 +1,127 @@
+@media only screen and (max-width: 600px){
+    body{
+        background: #253D2B;
+    }
+
+    .goal{
+        color: white;
+        font-size: 40px;
+        margin-top: -30px;
+        font-family: 'Roboto Mono', monospace;
+    }
+
+    .lines{
+        justify-content: center;
+    }
+
+    .section-home{
+        width: 95%;
+        border-radius: 50px;
+        height: 50px;
+        color: #B4AE83;
+    }
+
+    .icons{
+        width: 30px;
+        margin-left: 30px;
+    }
+
+    .about{
+        font-family: 'Roboto Mono', monospace;
+        margin-left: 30px;
+        font-size: 20px;
+    }
+
+    
+    .section-home:hover{
+        background-color:#396E46 ;
+        width: 90%;
+        border-radius: 50px;
+        height: 50px;
+        color: white;
+        transition: 1s;
+    }
+
+    .continue{
+        width:291px;
+        height: 47px;
+        border-radius: 50px;
+        background-color: transparent;
+        border: 2px solid;
+        border-color: #B4AE83;
+        color: white;
+        font-family: 'Roboto Mono', monospace;
+        margin-top: 30px;
+    }
+
+    .arrow{
+        width: 20px;
+        position: absolute;
+        left: 20px;
+        color: #B4AE83;
+        transform: rotate(180deg);
+    }
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    body{
+        background: #253D2B;
+    }
+
+    .lines{
+        width: 50px;
+    }
+    .goal{
+        color: white;
+        font-size: 50px;
+        margin-top: -30px;
+        font-family: 'Roboto Mono', monospace;
+    }
+
+    .section-home{
+        width: 95%;
+        border-radius: 50px;
+        height: 60px;
+        color: #B4AE83;
+    }
+    .section-home:hover{
+        background-color:#396E46 ;
+        width: 90%;
+        border-radius: 50px;
+        height: 60px;
+        color: white;
+        transition: 1s;
+    }
+
+    .icons{
+        width: 30px;
+        margin-left: 30px;
+    }
+    .about{
+        font-family: 'Roboto Mono', monospace;
+        margin-left: 30px;
+        font-size: 20px;
+    }
+
+    .continue{
+        width:291px;
+        height: 47px;
+        border-radius: 50px;
+        background-color: transparent;
+        border: 2px solid;
+        border-color: #B4AE83;
+        color: white;
+        font-family: 'Roboto Mono', monospace;
+    }
+
+    .arrow{
+        width: 30px;
+        position: absolute;
+        left: 20px;
+        color: #B4AE83;
+        transform: rotate(180deg);
+    }
+  }
