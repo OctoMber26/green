@@ -6,7 +6,7 @@
         background-image: linear-gradient(to right top, #253d2b, #274730, #285136, #285b3b, #286641);
         background-size: cover;
         background-position: center;
-        overflow: hidden;
+        overflow-x: hidden;
         
     }
 
